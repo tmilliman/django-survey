@@ -7,14 +7,17 @@ django-bootstrap-form==3.2.1
 django-registration==2.2
 django-rosetta==0.8.1
 django-tastypie==0.14.0
+funcsigs==1.0.2
 future==0.16.0
 idna==2.6
 matplotlib==2.1.0rc1
 microsofttranslator==0.8
+mock==2.0.0
 nltk==3.2.5
 numpy==1.13.3
 ordereddict==1.1
 pandas==0.22.0
+pbr==3.1.1
 polib==1.1.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
